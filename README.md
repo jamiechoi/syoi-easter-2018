@@ -12,6 +12,7 @@
 
 | Filename | Problem |
 | -------- | ------- |
+| `01702.cpp` | HKOJ 01702, self-balancing BST template |
 | `m1731.cpp` | HKOJ M1731 |
 | `t111.cpp` | HKOJ T111 |
 | `t114.cpp` | HKOJ T114 |
