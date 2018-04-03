@@ -30,7 +30,7 @@ struct SegTree {
   ll query(int ql, int qr) {
     // current node is exactly what is needed
     if (ql == l && qr == r)
-      return sum + lazy * (r - l + 1);
+      return get();
 
     int m = l + r >> 1;
     int v = (qr - ql + 1) * lazy;
